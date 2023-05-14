@@ -1,4 +1,4 @@
-js
+
 const googoo = document.getElementsByClassName("googoo")[0];
 
 function one() {
