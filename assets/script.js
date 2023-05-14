@@ -7,6 +7,7 @@ function one() {
 }
 function two() {
   setTimeout(three, 700);
+  googoo.innerHTML = "GENERATING..";
 }
 function three() {
   setTimeout(four, 700);
