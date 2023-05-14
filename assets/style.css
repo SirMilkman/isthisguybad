@@ -85,6 +85,7 @@
   }
 
 .gaga {
+    font-family: "Monaco", "Courier New", monospace;
   transition: all 0.05s ease;
   font-size: 40px;
   width: 100%;
@@ -94,6 +95,7 @@
   text-align: center;
 }
 .gagaa {
+    font-family: "Monaco", "Courier New", monospace;
   transition: all 0.05s ease;
   font-size: 15px;
   width: 100%;
